@@ -1,8 +1,20 @@
-layout_spectrum: 0.487717
-typography_spectrum: 0.4617455
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.5245904
-  lightness: 0.1873928
+  saturation: 0.8254564
   brandStrength: 0.9218193
+  lightness: 0
   rhythmicContrast: 0.02962493
+typography_spectrum: 0.4301826
+layout_spectrum: 0.487717
 name: RKL
