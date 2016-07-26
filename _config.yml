@@ -12,9 +12,9 @@ collections:
       number: 10
 typography_spectrum: 0.4301826
 color:
-  saturation: 0.8254564
+  saturation: 1
+  lightness: 1
   brandStrength: 0.9218193
-  lightness: 0
-  rhythmicContrast: 0.02962493
-layout_spectrum: 1
+  rhythmicContrast: 0
+layout_spectrum: 0.226101
 name: RKL
