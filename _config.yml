@@ -4,17 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4301826
 color:
   saturation: 1
-  lightness: 1
   brandStrength: 0.9218193
-  rhythmicContrast: 0
+  lightness: 0.5010741
+  rhythmicContrast: 1
 layout_spectrum: 0.226101
 name: RKL
