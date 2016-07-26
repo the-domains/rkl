@@ -5,10 +5,4 @@ color:
   lightness: 0.1873928
   brandStrength: 0.9218193
   rhythmicContrast: 0.02962493
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
 name: RKL
