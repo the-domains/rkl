@@ -10,11 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4301826
 color:
   saturation: 0.8254564
   brandStrength: 0.9218193
   lightness: 0
   rhythmicContrast: 0.02962493
-typography_spectrum: 0.4301826
-layout_spectrum: 0.487717
+layout_spectrum: 1
 name: RKL
