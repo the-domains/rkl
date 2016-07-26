@@ -1,0 +1,14 @@
+layout_spectrum: 0.487717
+typography_spectrum: 0.4617455
+color:
+  saturation: 0.5245904
+  lightness: 0.1873928
+  brandStrength: 0.9218193
+  rhythmicContrast: 0.02962493
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: RKL
