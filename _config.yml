@@ -1,3 +1,11 @@
+typography_spectrum: 0.4301826
+color:
+  saturation: 1
+  brandStrength: 0.9218193
+  lightness: 0.5010741
+  rhythmicContrast: 1
+layout_spectrum: 0.226101
+name: RKL
 collections:
   - index:
       path: /
@@ -10,12 +18,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4301826
-color:
-  saturation: 1
-  brandStrength: 0.9218193
-  lightness: 0.5010741
-  rhythmicContrast: 1
-layout_spectrum: 0.226101
-name: RKL
 title: A Test is a Test
+description: unless it's real
