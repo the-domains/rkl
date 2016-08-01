@@ -5,7 +5,7 @@ color:
   lightness: 1
   rhythmicContrast: 1
 layout_spectrum: 0.9382384
-name: RKL
+name: Pictures from Life
 collections:
   - index:
       path: /
@@ -18,5 +18,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: A Test is a Test
+title: Welcome to Latman.com
 description: unless it's real
