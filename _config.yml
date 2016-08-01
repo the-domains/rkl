@@ -1,22 +1,22 @@
-typography_spectrum: 0.4301826
 color:
   saturation: 1
   brandStrength: 0.9218193
-  lightness: 1
   rhythmicContrast: 1
-layout_spectrum: 0.9382384
-name: Pictures from Life
+  lightness: 1
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 title: Welcome to Latman.com
+layout_spectrum: 0.9382384
+typography_spectrum: 0.4301826
 description: 'if it''s important, you may find it here'
+name: Pictures from Life
