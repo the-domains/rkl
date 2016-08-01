@@ -1,4 +1,11 @@
-title: A Test is a Test
+typography_spectrum: 0.4301826
+color:
+  saturation: 1
+  brandStrength: 0.9218193
+  rhythmicContrast: 1
+  lightness: 0.5010741
+layout_spectrum: 0.9382384
+name: RKL
 collections:
   - index:
       path: /
@@ -11,12 +18,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.9218193
-  rhythmicContrast: 1
-  lightness: 0.5010741
-typography_spectrum: 0.4301826
+title: A Test is a Test
 description: unless it's real
-layout_spectrum: 0.9382384
-name: RKL
