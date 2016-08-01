@@ -14,8 +14,8 @@ collections:
 color:
   saturation: 1
   brandStrength: 0.9218193
+  lightness: 1
   rhythmicContrast: 1
-  lightness: 0.5010741
 typography_spectrum: 0.4301826
 description: unless it's real
 layout_spectrum: 0.9382384
