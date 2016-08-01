@@ -1,22 +1,22 @@
-typography_spectrum: 0.4301826
-color:
-  saturation: 1
-  brandStrength: 0.9218193
-  lightness: 0.5010741
-  rhythmicContrast: 1
-layout_spectrum: 0.226101
-name: RKL
+title: A Test is a Test
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: A Test is a Test
+color:
+  saturation: 1
+  brandStrength: 0.9218193
+  rhythmicContrast: 1
+  lightness: 0.5010741
+typography_spectrum: 0.4301826
 description: unless it's real
+layout_spectrum: 0.9382384
+name: RKL
