@@ -4,8 +4,15 @@
         <description><![CDATA[Welcome to Latman.com]]></description>
         <link>http://latman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 12:31:42 GMT</lastBuildDate>
         <atom:link href="http://latman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07397cdb-5f20-457d-9d13-58948e1778f9.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/07397cdb-5f20-457d-9d13-58948e1778f9.jpg</link>
+            <guid isPermaLink="false">3e128519-05da-4742-8e00-59bad2f86ba2</guid>
+            <pubDate>Tue, 02 Aug 2016 12:31:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f973dca0-d9dc-4733-b141-43068fa1e027.jpg">]]></description>
